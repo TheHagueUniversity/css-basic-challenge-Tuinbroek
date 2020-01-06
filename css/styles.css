@@ -105,6 +105,14 @@ header {
   margin-top: 0;
 }
 
+/* Image Gallery
+------------------------------------*/
+.image-gallery {
+  background: #0C4767;
+}
+.image-item {
+  overflow: hidden;
+}
 
 /* Work Experience
 ------------------------------------*/
