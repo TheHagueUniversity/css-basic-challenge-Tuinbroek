@@ -88,10 +88,10 @@ header {
   color: #FE9920;
 }
 .projects .btn {
-  color: #B9A44C;
-  background: #FE9920;
+  color: #FE9920;
+  background: #FA7921;
   text-decoration: none;
-  padding: 8px;
+  padding: 10px;
   border-radius: 4px;
   display: inline-block;
 }
@@ -111,7 +111,17 @@ header {
 .work-experience {
   background: #0C4767;
 }
-
+.work-experience .btn {
+  color: #B9A44C;
+  background: #FA7921;
+  text-decoration: none;
+  padding:10px;
+  border-radius: 4px;
+  display: inline-block;
+}
+.work-experience .btn:hover {
+  background: rgba(254, 153, 32, 80%);
+}
 
 
 /* Education
